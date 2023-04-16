@@ -17,11 +17,20 @@
 
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tofuwave&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="tofuwave" /></p>
+ 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tofuwave&show_icons=true&theme=tokyonight&locale=en" alt="tofuwave" /></p>
+<p align = "center">
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tofuwave&show_icons=true&theme=tokyonight&locale=en" alt="tofuwave" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tofuwave&theme=highcontrast" alt="tofuwave" /></p>
   
-  <h4 align = "center">I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)<h4>
+<p align = "center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tofuwave&theme=highcontrast" alt="tofuwave" /></p>
+  
+
+  
+<h4 align = "center">I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)<h4>
+  
+  <p align = "center">
+<img width = "990" height = "400" src = "https://i.redd.it/8u7u8ldfoal81.gif">                                                                                
+</p>
   
